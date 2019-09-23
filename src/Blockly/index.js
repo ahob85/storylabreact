@@ -1,6 +1,6 @@
 /**
  * @license
- * 
+ *
  * Copyright 2019 Google LLC
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +21,7 @@
  * @author samelh@google.com (Sam El-Husseini)
  */
 
- import React from 'react';
+import React from 'react';
 import BlocklyComponent from './BlocklyComponent';
 
 export default BlocklyComponent;
